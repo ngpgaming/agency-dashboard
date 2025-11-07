@@ -1,14 +1,1 @@
-[
-  {
-    "type": "AGENT SALARY",
-    "detail": "Salary for November",
-    "time": "2025-11-07 10:31:00",
-    "balance": 32000
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Performance bonus",
-    "time": "2025-11-07 10:31:00",
-    "balance": 3000
-  }
-]
+[]
