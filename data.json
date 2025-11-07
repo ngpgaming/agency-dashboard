@@ -1,15 +1,15 @@
 {
-  "commission": 22,
+  "commission": 5,
   "direct": {
-    "register": 22,
-    "deposit_number": 22,
-    "deposit_amount": 22,
-    "first_deposit": 22
+    "register": 5,
+    "deposit_number": 5,
+    "deposit_amount": 5,
+    "first_deposit": 55
   },
   "team": {
-    "register": 22,
-    "deposit_number": 22,
-    "deposit_amount": 22,
-    "first_deposit": 22
+    "register": 5,
+    "deposit_number": 5,
+    "deposit_amount": 5,
+    "first_deposit": 5
   }
 }
