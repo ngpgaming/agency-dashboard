@@ -16,5 +16,11 @@
     "detail": "WITHDRAW",
     "time": "2025-11-07T22:05",
     "balance": 400
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "DATA",
+    "time": "2025-11-07T22:33",
+    "balance": 2000
   }
 ]
