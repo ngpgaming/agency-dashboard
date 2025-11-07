@@ -4,5 +4,11 @@
     "detail": "44",
     "time": "2025-11-07T21:46",
     "balance": 44
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "222",
+    "time": "2025-11-07T21:48",
+    "balance": 2
   }
 ]
