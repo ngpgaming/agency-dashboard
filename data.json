@@ -1,15 +1,15 @@
 {
-  "commission": 1444,
+  "commission": 3333,
   "direct": {
-    "register": 144,
-    "deposit_number": 644,
-    "deposit_amount": 844,
-    "first_deposit": 440
+    "register": 33333,
+    "deposit_number": 3333,
+    "deposit_amount": 3333,
+    "first_deposit": 3333
   },
   "team": {
-    "register": 446,
-    "deposit_number": 543,
-    "deposit_amount": 4466,
-    "first_deposit": 4499
+    "register": 3333,
+    "deposit_number": 3333,
+    "deposit_amount": 3333,
+    "first_deposit": 3333
   }
 }
