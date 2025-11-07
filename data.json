@@ -1,15 +1,15 @@
 {
-  "commission": 120,
+  "commission": 1,
   "direct": {
-    "register": 121,
-    "deposit_number": 122,
-    "deposit_amount": 123,
-    "first_deposit": 124
+    "register": 2,
+    "deposit_number": 3,
+    "deposit_amount": 4,
+    "first_deposit": 5
   },
   "team": {
-    "register": 125,
-    "deposit_number": 126,
-    "deposit_amount": 127,
-    "first_deposit": 128
+    "register": 6,
+    "deposit_number": 7,
+    "deposit_amount": 8,
+    "first_deposit": 9
   }
 }
