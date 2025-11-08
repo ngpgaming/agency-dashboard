@@ -1,6 +1,12 @@
 [
   {
     "type": "AGENT SALARY",
+    "detail": "DATA",
+    "time": "2025-12-20T11:22:00",
+    "balance": 49496464
+  },
+  {
+    "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-11-10T11:17:00",
     "balance": 26626
