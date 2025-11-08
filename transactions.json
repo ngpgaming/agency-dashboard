@@ -2,6 +2,12 @@
   {
     "type": "WITHDRAW",
     "detail": "DATA",
+    "time": "2025-12-14T09:57:00",
+    "balance": 100
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "DATA",
     "time": "2025-12-15T09:57:00",
     "balance": 1000
   },
