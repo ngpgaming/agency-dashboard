@@ -1,5 +1,11 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-10T11:17:00",
+    "balance": 26626
+  },
+  {
     "type": "WITHDRAW",
     "detail": "BANK CARD",
     "time": "2025-11-08 16:07:08",
