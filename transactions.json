@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "type": "AGENT SALARY",
+    "detail": "222",
+    "time": "202512-12-12T03:04",
+    "balance": 345
+  }
+]
