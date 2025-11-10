@@ -1,5 +1,11 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-10T09:58:00",
+    "balance": 3000
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "3",
     "time": "2025-11-10T11:52:00",
