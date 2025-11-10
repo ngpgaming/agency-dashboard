@@ -95,52 +95,26 @@
     "date": "2025-11-06",
     "stats": {
       "All": {
-        "depositNumber": 480,
-        "depositAmount": 275000,
-        "numBettors": 550,
-        "totalBet": 790000,
-        "numFirstDeposit": 315,
-        "firstDepositAmount": 195000
+        "depositNumber": 25,
+        "depositAmount": 25,
+        "numBettors": 25,
+        "totalBet": 25,
+        "numFirstDeposit": 25,
+        "firstDepositAmount": 25
       },
       "Tier 1": {
-        "depositNumber": 180,
-        "depositAmount": 100000,
-        "numBettors": 160,
-        "totalBet": 235000,
-        "numFirstDeposit": 80,
-        "firstDepositAmount": 90000
+        "depositNumber": 25,
+        "depositAmount": 25,
+        "numBettors": 25,
+        "totalBet": 25,
+        "numFirstDeposit": 25,
+        "firstDepositAmount": 25
       }
     },
-    "uids": [
-      {
-        "uid": "379351",
-        "level": 2,
-        "depositAmount": 590,
-        "betAmount": 940,
-        "commission": 17
-      },
-      {
-        "uid": "374193",
-        "level": 2,
-        "depositAmount": 1600,
-        "betAmount": 2700,
-        "commission": 23.8
-      },
-      {
-        "uid": "3720015",
-        "level": 1,
-        "depositAmount": 4100,
-        "betAmount": 8600,
-        "commission": 33.2
-      },
-      {
-        "uid": "3720016",
-        "level": 3,
-        "depositAmount": 5000,
-        "betAmount": 10300,
-        "commission": 40.1
-      }
-    ]
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   },
   {
     "date": "2025-11-09",
