@@ -200,5 +200,30 @@
       "All": [],
       "Tier 1": []
     }
+  },
+  {
+    "date": "2025-11-01",
+    "stats": {
+      "All": {
+        "depositNumber": 9,
+        "depositAmount": 9,
+        "numBettors": 9,
+        "totalBet": 9,
+        "numFirstDeposit": 9,
+        "firstDepositAmount": 9
+      },
+      "Tier 1": {
+        "depositNumber": 55,
+        "depositAmount": 55,
+        "numBettors": 55,
+        "totalBet": 55,
+        "numFirstDeposit": 55,
+        "firstDepositAmount": 55
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   }
 ]
