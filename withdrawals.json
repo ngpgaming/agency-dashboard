@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-10 15:54:00",
+    "balance": 7676,
+    "status": "Completed",
+    "order": "gdgdgd",
+    "remarks": "-"
+  }
+]
