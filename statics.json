@@ -105,7 +105,10 @@
         "firstDepositAmount": 421538
       }
     },
-    "uids": { "All": [], "Tier 1": [] }
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   },
   {
     "date": "2025-11-09",
@@ -127,7 +130,10 @@
         "firstDepositAmount": 400721
       }
     },
-    "uids": { "All": [], "Tier 1": [] }
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   },
   {
     "date": "2025-11-08",
@@ -149,7 +155,10 @@
         "firstDepositAmount": 386712
       }
     },
-    "uids": { "All": [], "Tier 1": [] }
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   },
   {
     "date": "2025-11-07",
@@ -345,7 +354,10 @@
         "firstDepositAmount": 1
       }
     },
-    "uids": { "All": [], "Tier 1": [] }
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   },
   {
     "date": "2025-11-02",
@@ -367,7 +379,10 @@
         "firstDepositAmount": 88
       }
     },
-    "uids": { "All": [], "Tier 1": [] }
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   },
   {
     "date": "2025-11-01",
@@ -389,6 +404,9 @@
         "firstDepositAmount": 55
       }
     },
-    "uids": { "All": [], "Tier 1": [] }
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   }
 ]
