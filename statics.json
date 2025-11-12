@@ -20,8 +20,14 @@
       }
     },
     "uids": {
-      "All": [],
-      "Tier 1": []
+      "All": [
+        {
+          "uid": "3928193",
+          "level": 1,
+          "depositAmount": 5000,
+          "betAmount": 123104.32,
+          "commission": 623.88,
+          "time": "2025-11-06"
     }
   },
   {
