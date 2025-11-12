@@ -369,7 +369,16 @@
           "time": "2025-11-12 13:41:47"
         }
       ],
-      "Tier 1": []
+      "Tier 1": [
+        {
+          "uid": "2",
+          "level": 2,
+          "depositAmount": 2,
+          "betAmount": 2,
+          "commission": 2,
+          "time": "2025-11-12 13:58:35"
+        }
+      ]
     }
   }
 ]
