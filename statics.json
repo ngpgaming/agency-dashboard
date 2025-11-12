@@ -354,5 +354,22 @@
       "All": [],
       "Tier 1": []
     }
+  },
+  {
+    "date": "2025-11-12",
+    "stats": {},
+    "uids": {
+      "All": [
+        {
+          "uid": "1",
+          "level": 1,
+          "depositAmount": 1,
+          "betAmount": 1,
+          "commission": 1,
+          "time": "2025-11-12 13:41:47"
+        }
+      ],
+      "Tier 1": []
+    }
   }
 ]
