@@ -30,5 +30,30 @@
       "All": [],
       "Tier 1": []
     }
+  },
+  {
+    "date": "2025-11-12",
+    "uids": {
+      "All": [
+        {
+          "uid": "11",
+          "level": 1,
+          "depositAmount": 1,
+          "betAmount": 1,
+          "commission": 1,
+          "time": "2025-11-12"
+        }
+      ],
+      "Tier 1": [
+        {
+          "uid": "1",
+          "level": 1,
+          "depositAmount": 11,
+          "betAmount": 1,
+          "commission": 1,
+          "time": "2025-11-12"
+        }
+      ]
+    }
   }
 ]
