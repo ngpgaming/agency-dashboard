@@ -42,6 +42,14 @@
           "betAmount": 1,
           "commission": 1,
           "time": "2025-11-12"
+        },
+        {
+          "uid": "22",
+          "level": 2332,
+          "depositAmount": 2332,
+          "betAmount": 2323,
+          "commission": 2323,
+          "time": "2025-11-12"
         }
       ],
       "Tier 1": [
@@ -51,6 +59,14 @@
           "depositAmount": 11,
           "betAmount": 1,
           "commission": 1,
+          "time": "2025-11-12"
+        },
+        {
+          "uid": "3453",
+          "level": 45453,
+          "depositAmount": 454,
+          "betAmount": 5445,
+          "commission": 3454,
           "time": "2025-11-12"
         }
       ]
