@@ -57,12 +57,12 @@
         "firstDepositAmount": 44
       },
       "Tier 1": {
-        "depositNumber": 44,
-        "depositAmount": 44,
-        "numBettors": 44,
-        "totalBet": 44,
-        "numFirstDeposit": 44,
-        "firstDepositAmount": 44
+        "depositNumber": 55,
+        "depositAmount": 55,
+        "numBettors": 55,
+        "totalBet": 55,
+        "numFirstDeposit": 55,
+        "firstDepositAmount": 55
       }
     },
     "uids": {
