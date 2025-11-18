@@ -1,0 +1,23 @@
+{
+  "popups": [
+    {
+      "type": "image",
+      "title": "⚠ Withdrawal Security Alert ⚠",
+      "image": "popup1.png",
+      "button": "Confirm"
+    },
+    {
+      "type": "text",
+      "title": "⚠️ Expiration of [.in] Domains",
+      "content": [
+        "⚠ Important Notice: Expiration of [.in] Domains",
+        "Dear Members,",
+        "Please be informed that our .in domain names will expire soon.",
+        "Use our official primary domain",
+        "Or contact customer service for latest domain",
+        "Warm regards — 82Lottery"
+      ],
+      "button": "Confirm"
+    }
+  ]
+}
