@@ -1,6 +1,15 @@
 [
   {
     "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-16 23:23:57",
+    "balance": 40750,
+    "status": "Completed",
+    "order": "WD202511162323577893218e",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
     "detail": "ARPAY",
     "time": "2025-11-17 09:13:52",
     "balance": 5000,
