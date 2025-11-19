@@ -2,6 +2,15 @@
   {
     "type": "WITHDRAW",
     "detail": "BANK CARD",
+    "time": "2025-11-07 08:23:10",
+    "balance": 2000,
+    "status": "Completed",
+    "order": "WD2025110708231091743896c",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
     "time": "2025-11-17 12:59:46",
     "balance": 25000,
     "status": "Completed",
