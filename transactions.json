@@ -1,5 +1,11 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-27 04:09:21",
+    "balance": 37000.54
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "AGENT COMMISSION",
     "time": "2025-11-19T22:36:45",
