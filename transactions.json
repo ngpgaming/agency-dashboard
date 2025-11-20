@@ -1,5 +1,11 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-19T22:55:00",
+    "balance": 23000
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "ADS FUNDS",
     "time": "2025-11-19T11:45:00",
