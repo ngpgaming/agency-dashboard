@@ -2,6 +2,12 @@
   {
     "type": "WITHDRAW",
     "detail": "Withdraw",
+    "time": "2025-11-19 17:59:39",
+    "balance": 50000
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "Withdraw",
     "time": "2025-11-19 23:01:44",
     "balance": 15060
   },
