@@ -1,5 +1,11 @@
 [
   {
+    "type": "AGENT COMMISSION",
+    "detail": "Commission",
+    "time": "2025-11-19 01:00:00",
+    "balance": 23794.95
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "Bonus",
     "time": "2025-11-19 12:40:23",
