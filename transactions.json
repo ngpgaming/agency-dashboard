@@ -1,6 +1,13 @@
 [
   {
     "type": "AGENT SALARY",
+    "detail": "Bonus",
+    "time": "2024-01-21 12:02:11",
+    "balance": 50000,
+    "remarks": "UID :- 225677 Daily Salary"
+  },
+  {
+    "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-11-21 11:59:01",
     "balance": 22000,
