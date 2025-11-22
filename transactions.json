@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
+    "time": "2025-11-17 12:30:56",
+    "balance": 40000,
+    "remarks": "ADS FUNDS , 17 NOVEMBER"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "Bonus",
     "time": "2025-11-21 12:42:16",
