@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "type": "AGENT COMMISSION",
+    "detail": "Commission",
+    "time": "2025-11-15 01:00:00",
+    "balance": 19875.27,
+    "remarks": "-"
+  }
+]
