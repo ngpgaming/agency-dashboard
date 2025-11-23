@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "Bonus",
+    "time": "2025-11-23 12:07:18",
+    "balance": 60000,
+    "remarks": "DAILY SALARY , 23 NOVEMBER"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2025-11-23 08:04:27",
