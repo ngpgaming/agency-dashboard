@@ -2,6 +2,13 @@
   {
     "type": "AGENT BONUS",
     "detail": "Bonus",
+    "time": "2025-11-25 19:02:33",
+    "balance": 10000,
+    "remarks": "MONTHLY TARGET COMPLETE BONUS"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
     "time": "2025-11-25 12:18:58",
     "balance": 40000,
     "remarks": "ADS FUNDS , 25 NOVEMBER"
