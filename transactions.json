@@ -9,20 +9,6 @@
   {
     "type": "WITHDRAW",
     "detail": "Withdraw",
-    "time": "2025-11-25 23:18:09",
-    "balance": 21340,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-25 13:06:25",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
     "time": "2025-11-25 12:05:41",
     "balance": 49980,
     "remarks": "-"
