@@ -2,6 +2,13 @@
   {
     "type": "AGENT BONUS",
     "detail": "Bonus",
+    "time": "2025-11-28 12:13:16",
+    "balance": 15000,
+    "remarks": "EVENT REWARD , 15000 +"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
     "time": "2025-11-28 12:16:45",
     "balance": 40000,
     "remarks": "ADS FUNDS , 28 NOVEMBER"
