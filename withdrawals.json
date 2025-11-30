@@ -2,6 +2,15 @@
   {
     "type": "WITHDRAW",
     "detail": "USDT",
+    "time": "2025-11-29 13:30:36",
+    "balance": 85600,
+    "status": "Completed",
+    "order": "WD20251129133036764319d",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
     "time": "2025-11-28 12:20:45",
     "balance": 46500,
     "status": "Completed",
