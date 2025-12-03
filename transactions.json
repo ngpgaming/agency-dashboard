@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
+    "time": "2025-12-02 12:40:02",
+    "balance": 45500,
+    "remarks": "ADS FUNDS , 02 DECEMBER"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2025-12-02 12:31:05",
