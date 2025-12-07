@@ -9,8 +9,8 @@
   "team": {
     "register": 1859,
     "deposit_number": 929,
-    "deposit_amount": 519,
-    "first_deposit": 851240
+    "deposit_amount": 851240,
+    "first_deposit": 519
   },
   "promotion": {
     "this_week": 48747.69,
