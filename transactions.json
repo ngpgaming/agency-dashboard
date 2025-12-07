@@ -2,6 +2,13 @@
   {
     "type": "AGENT BONUS",
     "detail": "Bonus",
+    "time": "2025-12-06 12:55:56",
+    "balance": 9999,
+    "remarks": "SUPER INVITATION EVENT BONUS"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
     "time": "2025-12-06 12:40:02",
     "balance": 40000,
     "remarks": "ADS FUNDS , 06 DECEMBER"
