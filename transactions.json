@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-08 13:47:40",
@@ -7,6 +8,7 @@
     "remarks": "-"
   },
   {
+    "id": 2,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-08 08:24:18",
@@ -14,6 +16,7 @@
     "remarks": "-"
   },
   {
+    "id": 3,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-07 16:54:52",
@@ -21,6 +24,7 @@
     "remarks": "-"
   },
   {
+    "id": 4,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-07 09:54:28",
@@ -28,6 +32,7 @@
     "remarks": "-"
   },
   {
+    "id": 5,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-06 14:29:55",
@@ -35,6 +40,7 @@
     "remarks": "-"
   },
   {
+    "id": 6,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-06 08:53:32",
@@ -42,6 +48,7 @@
     "remarks": "-"
   },
   {
+    "id": 7,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-05 21:19:57",
@@ -49,6 +56,7 @@
     "remarks": "-"
   },
   {
+    "id": 8,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-05 13:52:37",
@@ -56,6 +64,7 @@
     "remarks": "-"
   },
   {
+    "id": 9,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-05 08:05:59",
@@ -63,6 +72,7 @@
     "remarks": "-"
   },
   {
+    "id": 10,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-04 20:17:29",
@@ -70,6 +80,7 @@
     "remarks": "-"
   },
   {
+    "id": 11,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-04 16:51:10",
@@ -77,6 +88,7 @@
     "remarks": "-"
   },
   {
+    "id": 12,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-04 07:50:39",
@@ -84,6 +96,7 @@
     "remarks": "-"
   },
   {
+    "id": 13,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-03 22:08:04",
@@ -91,6 +104,7 @@
     "remarks": "-"
   },
   {
+    "id": 14,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-03 16:49:39",
@@ -98,6 +112,7 @@
     "remarks": "-"
   },
   {
+    "id": 15,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-03 06:00:45",
@@ -105,6 +120,7 @@
     "remarks": "-"
   },
   {
+    "id": 16,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-02 22:48:23",
@@ -112,6 +128,7 @@
     "remarks": "-"
   },
   {
+    "id": 17,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-02 13:05:38",
@@ -119,6 +136,7 @@
     "remarks": "-"
   },
   {
+    "id": 18,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-02 06:21:14",
@@ -126,6 +144,7 @@
     "remarks": "-"
   },
   {
+    "id": 19,
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-01 17:55:51",
@@ -133,1165 +152,11 @@
     "remarks": "-"
   },
   {
+    "id": 20,
     "type": "AGENT BONUS",
     "detail": "Bonus",
     "time": "2026-01-01 16:45:21",
     "balance": 10000,
     "remarks": "NEW YEAR BONUS"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2026-01-01 12:43:03",
-    "balance": 80000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2026-01-01 07:42:46",
-    "balance": 28500,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-08 12:20:50",
-    "balance": 50000,
-    "remarks": "08/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-07 13:00:22",
-    "balance": 50000,
-    "remarks": "07/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-06 12:55:51",
-    "balance": 50000,
-    "remarks": "06/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-05 12:47:04",
-    "balance": 50000,
-    "remarks": "03/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-04 12:06:37",
-    "balance": 50000,
-    "remarks": "04/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-03 12:37:05",
-    "balance": 50000,
-    "remarks": "03/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-02 12:48:14",
-    "balance": 50000,
-    "remarks": "02/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2026-01-01 12:35:10",
-    "balance": 50000,
-    "remarks": "01/01/2026 , DAILY ADS SUPPORT"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-08 12:15:59",
-    "balance": 70000,
-    "remarks": "08/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-07 12:55:34",
-    "balance": 70000,
-    "remarks": "07/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-06 12:50:09",
-    "balance": 70000,
-    "remarks": "06/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-05 12:40:48",
-    "balance": 70000,
-    "remarks": "05/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-04 12:00:26",
-    "balance": 70000,
-    "remarks": "04/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-03 12:30:45",
-    "balance": 70000,
-    "remarks": "03/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-02 12:45:59",
-    "balance": 70000,
-    "remarks": "02/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2026-01-01 12:29:13",
-    "balance": 70000,
-    "remarks": "01/01/2026 , AGENT DAILY SALARY"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-07 01:00:00",
-    "balance": 30459.05,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-06 01:00:00",
-    "balance": 27845.2,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-05 01:00:00",
-    "balance": 27061.43,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-04 01:00:00",
-    "balance": 33529.57,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-03 01:00:00",
-    "balance": 25836.54,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-02 01:00:00",
-    "balance": 31458.29,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-01 01:00:00",
-    "balance": 28454.99,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2026-01-08 01:00:00",
-    "balance": 29853.75,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-07 09:35:15",
-    "balance": 25000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-06 12:59:11",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-06 12:33:33",
-    "balance": 65800,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-06 12:55:56",
-    "balance": 9999,
-    "remarks": "SUPER INVITATION EVENT BONUS"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-06 12:40:02",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 06 DECEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-12-06 12:30:19",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 06 DECEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-12-07 01:00:00",
-    "balance": 25473.18,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-06 09:21:56",
-    "balance": 25000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-05 12:33:31",
-    "balance": 48888,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-05 12:19:45",
-    "balance": 61540,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-12-06 01:00:00",
-    "balance": 24852.39,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-05 12:27:21",
-    "balance": 8888,
-    "remarks": "EVENT BONUS"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-05 12:20:21",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 05 DECEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-12-05 12:15:03",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 05 DECEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-04 12:10:45",
-    "balance": 555,
-    "remarks": "EVENT BONUS +"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-05 08:38:08",
-    "balance": 23800,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-04 12:37:16",
-    "balance": 41750,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-04 12:04:29",
-    "balance": 60255,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-04 08:36:01",
-    "balance": 20500,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-03 12:35:13",
-    "balance": 41250,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-03 12:29:21",
-    "balance": 65900,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-12-04 12:03:59",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 04 DECEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-12-05 01:00:00",
-    "balance": 23875.08,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-03 12:30:13",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 03 DECEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-12-03 12:28:41",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 03 DECEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-04 12:07:04",
-    "balance": 41500,
-    "remarks": "ADS FUNDS , 04 DECEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-12-04 01:00:00",
-    "balance": 20576.15,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-12-03 01:00:00",
-    "balance": 24034.46,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-03 07:44:56",
-    "balance": 24550,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-02 13:00:15",
-    "balance": 60000,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-02 12:40:02",
-    "balance": 45500,
-    "remarks": "ADS FUNDS , 02 DECEMBER"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-02 12:31:05",
-    "balance": 56540,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-02 12:32:48",
-    "balance": 20000,
-    "remarks": "WEEKLY GOLD AGENT BONUS ++"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-12-02 12:29:04",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 02 DECEMBER"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-02 07:56:04",
-    "balance": 26500,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-12-02 01:00:00",
-    "balance": 25639.81,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-01 12:23:29",
-    "balance": 20000,
-    "remarks": "MONTHLY BONUS ADDITION +"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-01 14:01:00",
-    "balance": 35420,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-01 14:05:36",
-    "balance": 95000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-12-01 07:00:08",
-    "balance": 24000,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-12-01 12:20:12",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 1 DECEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-12-01 12:11:38",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 01 DECEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-12-01 01:00:00",
-    "balance": 23184.52,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-30 12:12:41",
-    "balance": 40000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-30 12:08:10",
-    "balance": 65754,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-30 12:10:30",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 30 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-30 12:05:58",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 30 NOVEMBER"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-30 08:45:37",
-    "balance": 25000,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-30 01:00:00",
-    "balance": 26451.71,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-29 14:01:23",
-    "balance": 56725,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-29 13:30:36",
-    "balance": 85600,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-29 13:23:04",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 29 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-29 13:18:33",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 29 NOVEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-29 01:00:00",
-    "balance": 23547.17,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-28 12:20:45",
-    "balance": 46500,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-28 12:15:12",
-    "balance": 66200,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-28 07:17:29",
-    "balance": 20000,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-28 12:13:16",
-    "balance": 15000,
-    "remarks": "EVENT REWARD , 15000 +"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-28 12:16:45",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 28 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-28 12:11:16",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 28 NOVEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-28 01:00:00",
-    "balance": 21041.95,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-27 13:05:26",
-    "balance": 47655,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-27 12:59:36",
-    "balance": 60000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-27 08:57:38",
-    "balance": 27000,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-27 12:28:29",
-    "balance": 45500,
-    "remarks": "ADS FUNDS , 27 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-27 12:23:50",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 27 NOVEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-27 01:00:00",
-    "balance": 26412.72,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-26 12:12:17",
-    "balance": 40000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-26 12:08:54",
-    "balance": 60000,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-26 12:10:50",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 26 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-26 12:06:20",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 26 NOVEMBER"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-26 08:20:41",
-    "balance": 35876,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-25 12:05:41",
-    "balance": 49980,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-26 01:00:00",
-    "balance": 25493.62,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-25 19:02:33",
-    "balance": 10000,
-    "remarks": "MONTHLY TARGET COMPLETE BONUS"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-25 12:18:58",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 25 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-25 12:01:30",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 25 NOVEMBER"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-25 09:00:54",
-    "balance": 25985,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-25 01:00:00",
-    "balance": 23963,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-24 13:03:35",
-    "balance": 40000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-24 12:15:10",
-    "balance": 84500,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-24 12:21:17",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 24 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-24 12:13:39",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 24 NOVEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-24 01:00:00",
-    "balance": 24527.83,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-23 13:17:39",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-23 13:15:47",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-23 12:10:56",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 23 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-23 12:07:18",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 23 NOVEMBER"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-23 08:04:27",
-    "balance": 30900,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-23 01:00:00",
-    "balance": 20989.83,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-22 23:06:05",
-    "balance": 10000,
-    "remarks": "WEEKLY GOLD AGENT BONUS ++"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-22 15:11:32",
-    "balance": 50100,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-22 15:10:45",
-    "balance": 50100,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-22 14:56:20",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 22 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-22 14:52:02",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 22 NOVEMBER"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-17 13:10:31",
-    "balance": 60000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-17 12:28:25",
-    "balance": 49825,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-17 05:34:37",
-    "balance": 20000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-16 14:10:41",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-16 14:08:45",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-16 07:54:02",
-    "balance": 18000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-15 13:35:50",
-    "balance": 32350,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-15 12:39:42",
-    "balance": 55000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-15 09:22:13",
-    "balance": 15955,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-20 08:36:41",
-    "balance": 15400,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-22 07:06:22",
-    "balance": 19700,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-21 13:23:41",
-    "balance": 18765,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-21 13:19:50",
-    "balance": 80000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-21 06:01:40",
-    "balance": 15000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-20 13:24:09",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-20 13:23:36",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-19 23:01:44",
-    "balance": 15060,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-19 17:59:39",
-    "balance": 50000,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-19 08:47:30",
-    "balance": 24425,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-18 22:52:19",
-    "balance": 15200,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-18 18:32:44",
-    "balance": 44350,
-    "remarks": "-"
-  },
-  {
-    "type": "WITHDRAW",
-    "detail": "Withdraw",
-    "time": "2025-11-18 14:49:03",
-    "balance": 10974,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-21 12:46:13",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 21 NOVEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-20 12:15:31",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 20 NOVEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-19 12:59:31",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 19 NOVEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-18 12:49:40",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 18 NOVEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-17 12:30:56",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 17 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-21 12:42:16",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 21 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-20 12:06:37",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 20 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-19 12:55:24",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 19 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-18 12:42:09",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 18 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-17 12:27:22",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 17 NOVEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-16 12:10:08",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 16 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-16 12:03:55",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 16 NOVEMBER"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "Bonus",
-    "time": "2025-11-15 12:40:21",
-    "balance": 40000,
-    "remarks": "ADS FUNDS , 15 NOVEMBER"
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "Bonus",
-    "time": "2025-11-15 12:38:12",
-    "balance": 60000,
-    "remarks": "DAILY SALARY , 15 NOVEMBER"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-22 01:00:00",
-    "balance": 19634.18,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-21 01:00:00",
-    "balance": 20314.73,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-20 01:00:00",
-    "balance": 21374.38,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-19 01:00:00",
-    "balance": 17504.34,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-18 01:00:00",
-    "balance": 20542.16,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-17 01:00:00",
-    "balance": 21342.26,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-16 01:00:00",
-    "balance": 18043.02,
-    "remarks": "-"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-15 01:00:00",
-    "balance": 19875.27,
-    "remarks": "-"
   }
 ]
