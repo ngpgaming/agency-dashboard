@@ -1,6 +1,15 @@
 [
   {
     "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2026-01-05 08:05:59",
+    "balance": 27000,
+    "status": "Completed",
+    "order": "WD20260105080559462819b",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
     "detail": "USDT",
     "time": "2026-01-04 20:17:29",
     "balance": 48650,
