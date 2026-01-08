@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
+    "time": "2026-01-01 16:45:21",
+    "balance": 10000,
+    "remarks": "NEW YEAR BONUS"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2026-01-01 12:43:03",
