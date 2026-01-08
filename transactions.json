@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "Bonus",
+    "time": "2026-01-01 12:29:13",
+    "balance": 70000,
+    "remarks": "01/01/2026 , AGENT DAILY SALARY"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "Commission",
     "time": "2026-01-07 01:00:00",
