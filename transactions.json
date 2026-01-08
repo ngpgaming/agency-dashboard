@@ -2,6 +2,13 @@
   {
     "type": "AGENT BONUS",
     "detail": "Bonus",
+    "time": "2026-01-06 12:55:51",
+    "balance": 50000,
+    "remarks": "06/01/2026 , DAILY ADS SUPPORT"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "Bonus",
     "time": "2026-01-05 12:47:04",
     "balance": 50000,
     "remarks": "03/01/2026 , DAILY ADS SUPPORT"
