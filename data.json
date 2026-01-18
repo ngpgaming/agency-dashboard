@@ -2,15 +2,15 @@
   "commission": 19524.14,
   "direct": {
     "register": 1628,
-    "deposit_number": 905,
-    "deposit_amount": 825637,
-    "first_deposit": 439
+    "deposit_number": 645,
+    "deposit_amount": 510648,
+    "first_deposit": 359
   },
   "team": {
     "register": 2257,
-    "deposit_number": 982,
-    "deposit_amount": 905624,
-    "first_deposit": 458
+    "deposit_number": 701,
+    "deposit_amount": 690256,
+    "first_deposit": 438
   },
   "promotion": {
     "this_week": 102365.92,
