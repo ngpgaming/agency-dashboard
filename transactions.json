@@ -1,5 +1,12 @@
 [
   {
+    "type": "BONUS",
+    "detail": "Bonus",
+    "time": "2026-01-22 12:55:55",
+    "balance": 40000,
+    "remarks": "22/01/2026 DAILY ADS"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "Bonus",
     "time": "2026-01-22 12:50:34",
