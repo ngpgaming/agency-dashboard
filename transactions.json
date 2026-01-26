@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "Bonus",
+    "time": "2026-01-21 14:28:58",
+    "balance": 60000,
+    "remarks": "21/01/2026 DAILY SALARY"
+  },
+  {
     "type": "INVITATION BONUS",
     "detail": "Bonus",
     "time": "2026-01-21 07:55:51",
