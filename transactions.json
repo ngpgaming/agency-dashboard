@@ -2,6 +2,13 @@
   {
     "type": "INVITATION BONUS",
     "detail": "Bonus",
+    "time": "2026-01-21 08:27:11",
+    "balance": 348,
+    "remarks": "-"
+  },
+  {
+    "type": "INVITATION BONUS",
+    "detail": "Bonus",
     "time": "2026-01-21 07:55:51",
     "balance": 548,
     "remarks": "-"
