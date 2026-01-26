@@ -2,6 +2,13 @@
   {
     "type": "BONUS",
     "detail": "Bonus",
+    "time": "2026-01-22 12:07:10",
+    "balance": 268,
+    "remarks": "-"
+  },
+  {
+    "type": "BONUS",
+    "detail": "Bonus",
     "time": "2026-01-22 10:40:57",
     "balance": 368,
     "remarks": "-"
