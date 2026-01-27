@@ -1,15 +1,5 @@
 [
   {
-    "id": 2,
-    "type": "WITHDRAW",
-    "detail": "BANK CARD",
-    "time": "2026-01-27 11:16:09",
-    "balance": 15000,
-    "status": "rejected",
-    "order": "WD202511171259467890287192S",
-    "remarks": "no"
-  },
-  {
     "id": 1,
     "type": "WITHDRAW",
     "detail": "USDT",
@@ -18,16 +8,6 @@
     "status": "Completed",
     "order": "WD2026010808134740296413d",
     "remarks": "-"
-  },
-  {
-    "id": 2,
-    "type": "WITHDRAW",
-    "detail": "BANK CARD",
-    "time": "2026-01-27 11:16:09",
-    "balance": 15000,
-    "status": "rejected",
-    "order": "WD202511171259467890287192S",
-    "remarks": "no"
   },
   {
     "id": 3,
