@@ -5,7 +5,7 @@
     "detail": "BANK CARD",
     "time": "2026-01-29 10:56:33",
     "balance": 2500,
-    "status": "pending",
+    "status": "Completed",
     "order": "WD202511171259467890287192S",
     "remarks": ""
   },
@@ -62,12 +62,12 @@
   {
     "id": 4,
     "type": "WITHDRAW",
-    "detail": "USDT",
-    "time": "2026-01-07 09:54:28",
-    "balance": 30000,
+    "detail": "BANK CARD",
+    "time": "2026-01-29 10:56:33",
+    "balance": 2500,
     "status": "Completed",
-    "order": "WD20260107095428521943c",
-    "remarks": "-"
+    "order": "WD202511171259467890287192S",
+    "remarks": ""
   },
   {
     "id": 5,
