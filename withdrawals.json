@@ -20,16 +20,6 @@
     "remarks": "-"
   },
   {
-    "id": 4,
-    "type": "WITHDRAW",
-    "detail": "BANK CARD",
-    "time": "2026-01-29 10:56:33",
-    "balance": 2500,
-    "status": "Completed",
-    "order": "WD202511171259467890287192S",
-    "remarks": ""
-  },
-  {
     "id": 5,
     "type": "WITHDRAW",
     "detail": "USDT",
