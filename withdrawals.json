@@ -1,15 +1,5 @@
 [
   {
-    "id": 2,
-    "type": "WITHDRAW",
-    "detail": "BANK CARD",
-    "time": "2026-01-27 07:10:41",
-    "balance": 27580,
-    "status": "rejected",
-    "order": "WD20260127071041532946b",
-    "remarks": "Please make new withdrawal"
-  },
-  {
     "id": 1,
     "type": "WITHDRAW",
     "detail": "USDT",
