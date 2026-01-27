@@ -5,9 +5,9 @@
     "detail": "BANK CARD",
     "time": "2026-01-27 11:16:09",
     "balance": 15000,
-    "status": "Completed",
+    "status": "rejected",
     "order": "WD202511171259467890287192S",
-    "remarks": ""
+    "remarks": "no"
   },
   {
     "id": 1,
@@ -23,11 +23,11 @@
     "id": 2,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
-    "time": "2026-01-27 10:54:48",
-    "balance": 37000.54,
-    "status": "pending",
+    "time": "2026-01-27 11:16:09",
+    "balance": 15000,
+    "status": "rejected",
     "order": "WD202511171259467890287192S",
-    "remarks": ""
+    "remarks": "no"
   },
   {
     "id": 3,
