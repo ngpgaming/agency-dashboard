@@ -1428,20 +1428,20 @@
     "date": "2026-02-01",
     "stats": {
       "All": {
-        "depositNumber": 1679,
-        "depositAmount": 1355241,
-        "numBettors": 1962,
-        "totalBet": 8562034.69,
-        "numFirstDeposit": 768,
-        "firstDepositAmount": 529624
+        "depositNumber": 1495,
+        "depositAmount": 1520349,
+        "numBettors": 1899,
+        "totalBet": 9071465.94,
+        "numFirstDeposit": 695,
+        "firstDepositAmount": 586329
       },
       "Tier 1": {
-        "depositNumber": 729,
-        "depositAmount": 739645,
-        "numBettors": 977,
-        "totalBet": 3216944.07,
-        "numFirstDeposit": 372,
-        "firstDepositAmount": 328615
+        "depositNumber": 760,
+        "depositAmount": 768482,
+        "numBettors": 985,
+        "totalBet": 3500164.41,
+        "numFirstDeposit": 396,
+        "firstDepositAmount": 388625
       }
     },
     "uids": {
