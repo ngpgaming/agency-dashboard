@@ -1648,5 +1648,30 @@
       "All": [],
       "Tier 1": []
     }
+  },
+  {
+    "date": "2026-03-01",
+    "stats": {
+      "All": {
+        "depositNumber": 1420,
+        "depositAmount": 1230783,
+        "numBettors": 2374,
+        "totalBet": 9024175.39,
+        "numFirstDeposit": 517,
+        "firstDepositAmount": 523746
+      },
+      "Tier 1": {
+        "depositNumber": 617,
+        "depositAmount": 591367,
+        "numBettors": 1096,
+        "totalBet": 2634197.05,
+        "numFirstDeposit": 206,
+        "firstDepositAmount": 269415
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   }
 ]
